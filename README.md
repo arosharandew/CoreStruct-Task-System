@@ -5,7 +5,7 @@
 
 A **console-based task management system** built entirely with custom data structures and algorithms. Developed as part of the **CM1602 Data Structures and Algorithms for Artificial Intelligence** module to showcase practical application of fundamental computer science concepts.
 
-![Demo Screenshot](docs/demo.png) <!-- Optional: add a screenshot later -->
+![Demo Screenshot](demo.png) <!-- Optional: add a screenshot later -->
 
 ---
 
