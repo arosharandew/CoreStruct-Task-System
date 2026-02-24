@@ -46,8 +46,8 @@ All implementations are **hand-written**, without using Java Collections Framewo
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/DSA-TaskManagement-System.git
-cd DSA-TaskManagement-System
+git clone https://github.com/arosharandew/CoreStruct-Task-System
+cd CoreStruct-Task-System
 ```
 
 2. **Compile the Java files**
@@ -156,13 +156,6 @@ For detailed test cases, see the coursework report in the repository.
 
 ---
 
-## 🙏 Acknowledgments
-
-- Module Leader: Ms. Malsha Fernando  
-- Inspired by: *Introduction to Algorithms* (Cormen et al.) and *Algorithms* (Sedgewick & Wayne)  
-- Developed as part of the BSc (Hons) Artificial Intelligence and Data Science at IIT / RGU
-
----
 
 ## 📜 License
 
